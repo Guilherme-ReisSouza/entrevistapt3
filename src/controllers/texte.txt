@@ -1,0 +1,173 @@
+        <div className="chart" id="cereals2">
+
+            <Graphics path= {{categoria: "foods", produto: "product1", marca: "brand2"}} />
+            
+        </div>
+
+        <div className="chart" id="cereals3">
+
+            <Graphics path= {{categoria: "foods", produto: "product1", marca: "brand3"}} />
+            
+        </div>
+        <div className="chart" id="soda1">
+
+            <Graphics path= {{categoria: "foods", produto: "product2", marca: "brand1"}} />
+            
+        </div>
+        <div className="chart" id="soda2">
+
+            <Graphics path= {{categoria: "foods", produto: "product2", marca: "brand2"}} />
+            
+        </div>
+
+        <div className="chart" id="soda3">
+
+            <Graphics path= {{categoria: "foods", produto: "product2", marca: "brand3"}} />
+            
+        </div>
+        <div className="chart" id="milk1">
+
+            <Graphics path= {{categoria: "foods", produto: "product3", marca: "brand1"}} />
+            
+        </div>
+        <div className="chart" id="milk2">
+
+            <Graphics path= {{categoria: "foods", produto: "product3", marca: "brand2"}} />
+            
+        </div>
+        <div className="chart" id="milk3">
+
+            <Graphics path= {{categoria: "foods", produto: "product3", marca: "brand3"}} />
+            
+        </div>
+
+
+        <div className="chart" id="jeans1">
+
+            <Graphics path= {{categoria: "clothes", produto: "product1", marca: "brand1"}} />
+            
+        </div>
+        <div className="chart" id="jeans2">
+
+            <Graphics path= {{categoria: "clothes", produto: "product1", marca: "brand2"}} />
+            
+        </div>
+        <div className="chart" id="jeans3">
+
+            <Graphics path= {{categoria: "clothes", produto: "product1", marca: "brand3"}} />
+            
+        </div>
+
+        <div className="chart" id="tshirt1">
+
+            <Graphics path= {{categoria: "clothes", produto: "product2", marca: "brand1"}} />
+            
+        </div>
+        <div className="chart" id="tshirt2">
+
+            <Graphics path= {{categoria: "clothes", produto: "product2", marca: "brand2"}} />
+            
+        </div>
+        <div className="chart" id="tshirt3">
+
+            <Graphics path= {{categoria: "clothes", produto: "product2", marca: "brand3"}} />
+            
+        </div>
+
+        <div className="chart" id="cap1">
+
+            <Graphics path= {{categoria: "clothes", produto: "product3", marca: "brand1"}} />
+            
+        </div>
+        <div className="chart" id="cap2">
+
+            <Graphics path= {{categoria: "clothes", produto: "product3", marca: "brand2"}} />
+            
+        </div>
+        <div className="chart" id="cap3">
+
+            <Graphics path= {{categoria: "clothes", produto: "product3", marca: "brand3"}} />
+            
+        </div>
+
+
+
+        <div className="chart" id="bed1">
+
+            <Graphics path= {{categoria: "furniture", produto: "product1", marca: "brand1"}} />
+            
+        </div>
+        <div className="chart" id="bed2">
+
+            <Graphics path= {{categoria: "furniture", produto: "product1", marca: "brand2"}} />
+            
+        </div>
+        <div className="chart" id="bed3">
+
+            <Graphics path= {{categoria: "furniture", produto: "product1", marca: "brand3"}} />
+            
+        </div>
+
+        <div className="chart" id="chair1">
+
+            <Graphics path= {{categoria: "furniture", produto: "product2", marca: "brand1"}} />
+            
+        </div>
+        <div className="chart" id="chair2">
+
+            <Graphics path= {{categoria: "furniture", produto: "product2", marca: "brand2"}} />
+            
+        </div>
+        <div className="chart" id="chair3">
+
+            <Graphics path= {{categoria: "furniture", produto: "product2", marca: "brand3"}} />
+            
+        </div>
+
+        <div className="chart" id="table1">
+
+            <Graphics path= {{categoria: "furniture", produto: "product3", marca: "brand1"}} />
+            
+        </div>
+        <div className="chart" id="table2">
+
+            <Graphics path= {{categoria: "furniture", produto: "product3", marca: "brand2"}} />
+            
+        </div>
+        <div className="chart" id="table3">
+
+            <Graphics path= {{categoria: "furniture", produto: "product3", marca: "brand3"}} />
+            
+        </div>
+
+
+            const hideAndShow = () => {
+
+        $("#cereals1").hide();
+        $("#cereals2").hide();
+        $("#cereals3").hide();
+        $("#soda1").hide();
+        $("#soda2").hide();
+        $("#soda3").hide();
+        $("#milk1").hide();
+        $("#milk2").hide();
+        $("#milk3").hide();
+        $("#jeans1").hide();
+        $("#jeans2").hide();
+        $("#jeans3").hide();
+        $("#tshirt1").hide();
+        $("#tshirt2").hide();
+        $("#tshirt3").hide();
+        $("#cap1").hide();
+        $("#cap2").hide();
+        $("#cap3").hide();
+        $("#bed1").hide();
+        $("#bed2").hide();
+        $("#bed3").hide();
+        $("#chair1").hide();
+        $("#chair2").hide();
+        $("#chair3").hide();
+        $("#table1").hide();
+        $("#table2").hide();
+        $("#table3").hide();
+    }
